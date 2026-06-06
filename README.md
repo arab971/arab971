@@ -9,7 +9,7 @@
 
 - 🧠 I'm a passionate Full Stack Developer and DevOps learner focused on building scalable, production-grade apps  
 - 🚀 Currently expanding my skills in **AWS Cloud**, **Terraform**, and **observability tools**
-- 🔐 I work heavily with **Next.js 14**, **Prisma**, **GraphQL**, and modern authentication (JWT, OAuth, Sessions)
+- 🔐 I work heavily with **Next.js 16**, **Prisma**, **GraphQL**, and modern authentication (JWT, OAuth, Sessions)
 - 🧩 My goal: Automate infrastructure, scale systems, and deliver flawless user experiences
 
 ---
